@@ -16,7 +16,7 @@ namespace KWIO\App;
 
 use Exception;
 use CEKW\WpPluginFramework\Core\Loader;
-use CEKW\WpPluginFramework\Core\RestRoute\RestRoutePackage;
+use CEKW\WpPluginFramework\Core\RestRoute\RestRoutingPackage;
 
 // Do not access file directly.
 if (!defined('ABSPATH')) {
